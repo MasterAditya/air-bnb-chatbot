@@ -1,0 +1,16 @@
+id,location,price,description,type,bedrooms,bathrooms,amenities
+1,Paris,150,Cozy apartment near the Eiffel Tower,Apartment,1,1,WiFi,Kitchen
+2,Miami,200,Beachfront condo with stunning views,Condo,2,2,Pool,Parking
+3,Los Angeles,250,Luxury villa in Beverly Hills,Villa,4,3,Pool,Gym
+4,Paris,100,Affordable studio in the city center,Studio,1,1,WiFi
+5,Miami,180,Modern apartment close to nightlife,Apartment,1,1,WiFi,Parking
+6,New York,300,Spacious loft in Manhattan,Loft,2,2,WiFi,Kitchen
+7,Tokyo,120,Traditional Japanese house in Shibuya,House,3,2,WiFi,Garden
+8,London,220,Charming flat near Big Ben,Flat,2,1,WiFi,Kitchen
+9,Sydney,250,Beach house with ocean views,House,3,2,Pool,WiFi
+10,Paris,180,Modern apartment with balcony,Apartment,2,1,WiFi,Parking
+11,Miami,220,Luxury penthouse with rooftop pool,Penthouse,3,3,Pool,Gym
+12,Berlin,140,Cozy studio in the city center,Studio,1,1,WiFi
+13,Rome,160,Apartment near the Colosseum,Apartment,2,1,WiFi,Kitchen
+14,Dubai,400,Luxury villa with private beach access,Villa,5,4,Pool,Gym
+15,San Francisco,280,Modern condo with Golden Gate views,Condo,2,2,WiFi,Parking
